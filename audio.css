@@ -1,0 +1,18 @@
+body{
+    background-color: #e03442;
+    color: white;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(194, 26, 26);
+}
+
+.songs-container {
+    background-color: rgb(194, 26, 26);
+}
+
+.image {
+    width: 150px;
+    height: 250px;
+}
